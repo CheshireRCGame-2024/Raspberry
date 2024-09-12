@@ -1,12 +1,24 @@
 # Python bytecode
 __pycache__/
 *.pyc
-
-# 로그 파일
-*.log
-
-# 환경 변수 파일
-.env
-
 # 임시 파일
+*.log
 *.tmp
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 캐시 파일
+.cache/
+
+# 개인 설정 파일
+.config/
+.gitconfig
+# 시스템 파일
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.xsession-errors
