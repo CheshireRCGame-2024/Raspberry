@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# 로그 파일
+*.log
+
+# 환경 변수 파일
+.env
+
+# 임시 파일
+*.tmp
